@@ -28,20 +28,20 @@
 
 ## 💻 Featured Project
 
-### 📝 Full-Stack Board Web Application (개인 포트폴리오)
-> **React와 Spring Boot 환경에서 JWT 기반의 보안 솔루션과 AWS 인프라를 연동하여 개발한 종합 게시판 웹 애플리케이션입니다.**
+### 🥇 GRAB — 부트캠프 최종 프로젝트 (4인)
+> **Tech Stack:** Spring Boot · PostgreSQL · Docker · GitHub Actions · AWS EC2 · Nginx
+> 판매자(셀러) 도메인 백엔드와 배포/인프라를 담당. 국세청 사업자등록 조회 API로 판매자 심사를 자동화하고, Nginx Blue/Green + EC2 무중단 배포를 구축했습니다.
+- 🔗 [Repository](https://github.com/prgrms-aibe-devcourse/AIBE7_FinalProject_Team3)
 
-#### 🔑 주요 구현 기능
-- **인증 및 인가 (Security):** 
-  - **Spring Security + JWT**를 연동하여 견고한 사용자 인증 프로세스 자체 구현
-  - Access Token과 Refresh Token 도입을 통한 보안성 향상 및 세션리스 관리 체계 구축
-  - 역할 기반 권한 제어를 통해 일반 유저와 관리자(Admin) 간의 차별화된 웹 메뉴 및 REST API 접근 제어 기능 구현
-- **백엔드 비즈니스 로직 및 데이터 관리:**
-  - **MyBatis** 프레임워크와 **MySQL** 데이터베이스 아키텍처 설계를 기반으로 게시글 및 댓글의 효율적인 CRUD 쿼리 매핑
-  - 대용량 트래픽 및 파일 저장 효율을 고려한 **AWS S3** 연동 미디어 파일 업로드 기능 구현
-- **풀스택 연동 및 인프라 구축:**
-  - React 애플리케이션과 Spring Boot 간의 비동기 Axios 통신을 통한 완전한 **REST API 데이터 연동** 구현
-  - **AWS EC2** 클라우드 인프라 환경 환경에 웹 서버 배포 및 독립된 **AWS RDS(MySQL)** 인스턴스 연동 운영
+### 🥈 마주한끼 (Maju-Hankki) — 부트캠프 2차 프로젝트 (2인)
+> **Tech Stack:** Spring Boot · Spring Security · JPA/Hibernate · WebSocket/STOMP · PostgreSQL · pgvector · Kakao Maps API
+> Spring Security + JWT 인증과 Google OAuth2 소셜 로그인, WebSocket/STOMP 실시간 채팅을 구현하고 pgvector 임베딩 비교로 매칭 호환도 점수를 개선했습니다.
+- 🔗 [Repository](https://github.com/prgrms-aibe-devcourse/AIBE7-Project2-Team04)
+
+### 🥉 PicTrip — 부트캠프 1차 프로젝트 (3인)
+> **Tech Stack:** Node.js · Express · Gemini · Groq · LangChain · Kakao Maps API · Supabase
+> 사진 기반 여행지 추천 기능을 구현하며 Gemini(이미지 해석) → Groq(추천) 2단계 AI 파이프라인을 구성하고, AI 호출 실패 시 자동 대체(fallback)를 적용했습니다.
+- 🔗 [Repository](https://github.com/prgrms-aibe-devcourse/AIBE7-Project1-Team04)
 
 ---
 
