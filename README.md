@@ -28,17 +28,17 @@
 
 ## 💻 Featured Project
 
-### 🥇 GRAB — 부트캠프 최종 프로젝트 (4인)
+### 🥇 GRAB (4인 팀 · 판매자(셀러) 도메인 / 배포·인프라 담당)
 > **Tech Stack:** Spring Boot · PostgreSQL · Docker · GitHub Actions · AWS EC2 · Nginx
 > 판매자(셀러) 도메인 백엔드와 배포/인프라를 담당. 국세청 사업자등록 조회 API로 판매자 심사를 자동화하고, Nginx Blue/Green + EC2 무중단 배포를 구축했습니다.
 - 🔗 [Repository](https://github.com/prgrms-aibe-devcourse/AIBE7_FinalProject_Team3)
 
-### 🥈 마주한끼 (Maju-Hankki) — 부트캠프 2차 프로젝트 (2인)
+### 🥈 마주한끼 (Maju-Hankki) (2인 팀 · 백엔드 개발)
 > **Tech Stack:** Spring Boot · Spring Security · JPA/Hibernate · WebSocket/STOMP · PostgreSQL · pgvector · Kakao Maps API
 > Spring Security + JWT 인증과 Google OAuth2 소셜 로그인, WebSocket/STOMP 실시간 채팅을 구현하고 pgvector 임베딩 비교로 매칭 호환도 점수를 개선했습니다.
 - 🔗 [Repository](https://github.com/prgrms-aibe-devcourse/AIBE7-Project2-Team04)
 
-### 🥉 PicTrip — 부트캠프 1차 프로젝트 (3인)
+### 🥉 PicTrip (3인 팀 · 이미지 분석 / AI 추천 파이프라인 담당)
 > **Tech Stack:** Node.js · Express · Gemini · Groq · LangChain · Kakao Maps API · Supabase
 > 사진 기반 여행지 추천 기능을 구현하며 Gemini(이미지 해석) → Groq(추천) 2단계 AI 파이프라인을 구성하고, AI 호출 실패 시 자동 대체(fallback)를 적용했습니다.
 - 🔗 [Repository](https://github.com/prgrms-aibe-devcourse/AIBE7-Project1-Team04)
