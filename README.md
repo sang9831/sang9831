@@ -49,8 +49,3 @@
 
 - **Email:** tjlf9831@gmail.com
 - **GitHub:** https://github.com/sang9831
-
-<br>
-
----
-*지속적인 학습과 시스템 안정성을 목표로 매일 더 단단한 코드를 만들어갑니다.*
