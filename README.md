@@ -47,5 +47,5 @@
 
 ## ✉️ Contact Me
 
-- **Email:** tjlf9831@gmail.com
+- **Email:** tjfl9831@gmail.com
 - **GitHub:** https://github.com/sang9831
